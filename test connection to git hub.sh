@@ -11,3 +11,4 @@ git add . #add any changes that have been made in the current directory to the l
 git commit -m "comments" #the update 
 
 git push # the command to actually push the changes to github 
+
