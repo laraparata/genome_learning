@@ -2,7 +2,9 @@
 title: "Assembly"
 author: "Lara Parata"
 date: "05/10/2022"
-output: github_document
+output:
+  html_document:
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}

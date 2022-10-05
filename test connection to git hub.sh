@@ -12,3 +12,7 @@ git commit -m "comments" #the update
 
 git push # the command to actually push the changes to github 
 
+ls
+Genome_Assembly.Rmd --> Genome_Assembly.md --> Genome_Assembly.html
+
+
